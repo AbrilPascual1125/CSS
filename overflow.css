@@ -1,26 +1,16 @@
 html{
-    background-color: rgb(228, 244, 255);
-    text-align: center;
+    background-color: white;
     
-}
+
 
 span{background-color:rgb(85, 192, 254)
 }
 
-table{
-    border: solid 5px black;
-    background-color:rgb(253, 226, 184);
-    text-align: center;
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px ;
-    margin-left: 40%;
-}
+div{padding-top: 15px;
+    background-color: greenyellow;
+    height: 150px;
+    width: 150px;
+    overflow: auto;
 
-td{
-    border-left: solid 1px black;
-    border-bottom: solid 2px black;
-    text-align: center;
 }
-
-#footer{background-color:rgb(85, 192, 254)
-}
+    
