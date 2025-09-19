@@ -1,0 +1,49 @@
+body {background-color: #88e788;}
+div{border: solid 4px #88e788;}
+
+@media (width<=320px) {
+    .part1 {width: 97%;
+        height: 50px; 
+    }
+    .part2 {width: auto;
+        height: 75px; 
+    }
+    .part3 {width: auto;
+        height: 175px; 
+    }
+    .part4 {width: auto;
+        height: 100%; 
+    }
+    .part4-2 {visibility: hidden; 
+    }
+}
+
+/*
+@media (max-width: 768px) {
+    .part2t{width: 96%;
+        height: 50px; 
+    }
+    .part2g{width: 96%;
+        height: 150px; 
+    }
+    .part2b{width: 96%;
+        height: 75px; 
+    }
+    .part2-1 {float: left;
+        width: 47.5%;
+        height: 50px;
+    }
+    .part2-2 {float: right;
+        width: 47.5%;
+        height: 50px; 
+        right: 20px;
+        clear: both;
+    }
+    
+}
+*/
+
+.taronja{background-color: orange}
+.groc{background-color: yellow}
+.blau{background-color: lightskyblue}
+.gris{background-color: lightgrey}
