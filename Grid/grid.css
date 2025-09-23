@@ -55,17 +55,18 @@ div {
         grid-row: 1;
     }
 
-    .hero {
-        height: 35vh;
+     .menu {
+        height: 10vh;
         grid-column: 1;
         grid-row: 2;
     }
 
-    .menu {
-        height: 50vh;
+    .hero {
+        height: 35vh;
         grid-column: 1;
         grid-row: 3;
     }
+
 
     .main {
         height: 20vh;
@@ -105,6 +106,7 @@ div {
     } 
     .menu { grid-column: 1 / 2; 
         grid-row: 3 / 6; 
+        height: 50vh;
     } 
     
     .main { grid-column: 2 / 4; 
